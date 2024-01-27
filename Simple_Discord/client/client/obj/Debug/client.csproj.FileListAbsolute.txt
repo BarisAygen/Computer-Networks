@@ -1,0 +1,47 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\bin\Debug\client.exe.config
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.exe
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.pdb
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\bin\Debug\client.exe
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\bin\Debug\client.pdb
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.Form1.resources
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Sabancı\Courses\CS 408\Labs\client\client\bin\Debug\client.exe.config
+D:\Sabancı\Courses\CS 408\Labs\client\client\bin\Debug\client.exe
+D:\Sabancı\Courses\CS 408\Labs\client\client\bin\Debug\client.pdb
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.Form1.resources
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.exe
+D:\Sabancı\Courses\CS 408\Labs\client\client\obj\Debug\client.pdb
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\bin\Debug\client.exe.config
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\bin\Debug\client.exe
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\bin\Debug\client.pdb
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.Form1.resources
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.exe
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\client\client\obj\Debug\client.pdb

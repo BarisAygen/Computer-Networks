@@ -1,0 +1,44 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\bin\Debug\server.exe.config
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.exe
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.pdb
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\bin\Debug\server.exe
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\bin\Debug\server.pdb
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.Form1.resources
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\muhde\OneDrive\Masaüstü\beyzaguldemir_demir_beyzagul\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+D:\Sabancı\Courses\CS 408\Labs\server\server\bin\Debug\server.exe.config
+D:\Sabancı\Courses\CS 408\Labs\server\server\bin\Debug\server.exe
+D:\Sabancı\Courses\CS 408\Labs\server\server\bin\Debug\server.pdb
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.Form1.resources
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.Properties.Resources.resources
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.exe
+D:\Sabancı\Courses\CS 408\Labs\server\server\obj\Debug\server.pdb
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\bin\Debug\server.exe.config
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\bin\Debug\server.exe
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\bin\Debug\server.pdb
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.Form1.resources
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.Properties.Resources.resources
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.exe
+D:\Sabancı\Courses\CS 408\Labs\hbaris_aygen_baris\server\server\obj\Debug\server.pdb
